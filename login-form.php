@@ -19,7 +19,7 @@ if ($count == 1) {
 	if ($row['password'] == $encrypt) {
 		header("Location: index.php");
 	} else {
-		//somethng
+		//something
 	}
 } else {
 		//something
