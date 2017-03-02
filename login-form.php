@@ -1,6 +1,3 @@
-# Login Form
-For going with the register-form.php.
-
 <?php
 
 $email = htmlentities($_POST['email']);
